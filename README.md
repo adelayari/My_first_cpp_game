@@ -1,6 +1,6 @@
 # My First Game
 
-![Game Screenshot](https://github.com/adelayari/My_first_cpp_game/assets/69399646/03d59420-879d-4dc4-b236-04d9c42097ba)
+[![Game Screenshot](https://github.com/adelayari/My_first_cpp_game/assets/69399646/03d59420-879d-4dc4-b236-04d9c42097ba)](https://github.com/adelayari/My_first_cpp_game/assets/69399646/03d59420-879d-4dc4-b236-04d9c42097ba)
 
 ## Description
 
