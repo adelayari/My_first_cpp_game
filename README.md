@@ -17,7 +17,7 @@ This is "My First Game". It's a simple game developed using the [raylib](https:/
 ## Author
 
 **© 2023 AYARI Adel**
-- LinkedIn: [AYARI Adel - LinkedIn](https://www.linkedin.com/in/ayari-adel-esim/)
+- LinkedIn: [AYARI Adel](https://www.linkedin.com/in/ayari-adel-esim/)
 
 
 ## License
