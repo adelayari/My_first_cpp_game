@@ -35,7 +35,7 @@ To compile and run "My First Game," follow these steps:
 3. Run the following command to build the game:
 
    ```bash
-   g++ src/main.cc -o main.exe -O2 -Wall -Wno-enum-compare -Wno-missing-braces -I./include -I./include/raylib-cpp -L./lib -lraylib -mwindows -lopengl32 -lgdi32 -lwinmm -mno-sse
+   g++ src/main.cc -o main.exe -O2 -Wall -Wno-enum-compare -Wno-missing-braces -I./include -L./lib -lraylib -mwindows -lopengl32 -lgdi32 -lwinmm -mno-sse
 4. After successful compilation, run the game using:
     ```bash
     ./main.exe
